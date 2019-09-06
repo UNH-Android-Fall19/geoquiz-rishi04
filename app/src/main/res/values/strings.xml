@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuiZApp</string>
+    <string name="Quizz">Begin Quizz</string>
+    <string name="Score">Score : </string>
+    <string name="True"> True </string>
+    <string name="False"> False </string>
+    <string name="Base_Score">0</string>
+    <string name="Congrats">Good Job</string>
+    <string name="Correct">4 out of 4 questions correct</string>
+    <string name="Retry">Play Again</string>
+</resources>
